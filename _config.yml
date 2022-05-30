@@ -1,8 +1,8 @@
 ### content configuration ###
-title:       "Fabio Ferreira"
-keywords:    "research, fabio ferreira, ferreira, karlsruhe, kit, deep learning, computer vision, machine learning"
+title:       "Haoxiang Ma"
+keywords:    "research,  Haoxiang Ma, computer vision, robot learning"
 description: ""
-source_link: "https://ferreirafabio.github.io"
+source_link: "https://mahaoxiang822.github.io"
 baseurl: "/"
 google_analytics_key: UA-87133106-1
 markdown: kramdown

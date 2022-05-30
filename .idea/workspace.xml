@@ -10,8 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6b9841a-c807-4bba-ab3d-141eaff0e291" name="Default Changelist" comment="delete">
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+    <list default="true" id="e6b9841a-c807-4bba-ab3d-141eaff0e291" name="Default Changelist" comment="change">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653915295648</updated>
-      <workItem from="1653915297939" duration="1250000" />
+      <workItem from="1653915297939" duration="1352000" />
     </task>
     <task id="LOCAL-00001" summary="profile">
       <created>1653916583152</created>
@@ -63,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653916895636</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="change">
+      <created>1653916985303</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653916985303</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,13 +91,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="profile" />
     <MESSAGE value="delete" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete" />
+    <MESSAGE value="change" />
+    <option name="LAST_COMMIT_MESSAGE" value="change" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1653916903257">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1653916992722">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1653916903257" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1653916992722" />
+    <state x="662" y="118" width="596" height="804" key="find.popup" timestamp="1653917028891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="118" width="596" height="804" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1653917028891" />
     <state x="682" y="419" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1653915522459">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
