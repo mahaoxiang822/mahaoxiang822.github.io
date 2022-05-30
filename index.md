@@ -5,7 +5,7 @@ title: Haoxiang Ma
 
 ## About Me
 
-<img class="profile-picture" src="pic.jpg" width=100>
+<img class="profile-picture" src="pic.jpg" width=150>
 
 I'm a PhD student in Beihang University where I focus on Robot Grasping and Scene Parsing.
 
